@@ -117,4 +117,8 @@ GitHub: [@naveengollapudi05](https://github.com/naveengollapudi05)
 
 ---
 
+<<<<<<< HEAD
 *CareerTrack — Plan smarter. Prepare better. Move forward.*
+=======
+*CareerTrack — Plan smarter. Prepare better. Move forward.*
+>>>>>>> dc40ab79cbf0ca85e42c859cbd84782a57174955
